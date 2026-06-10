@@ -1,7 +1,0 @@
-Пакет №1 (Log-Cosh + Exponential)
-Пакет №2 (Poisson + Logistic)
-Пакет №3 (Pseudo-Huber + Soft-Margin)
-Пакет №4 (Ridge + Probit)
-
-У нашей команды:
-Трек 4. Стохастический линейный поиск
