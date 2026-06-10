@@ -1,0 +1,462 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/56dzog",
+    "id": "56dzog",
+    "slide": 1,
+    "layoutId": "e9f8aaf2-92a8-4240-9333-3de0e0b1447b",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "44a75564-d41e-48a0-bd68-d7590e95fa68",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e9f8aaf2-92a8-4240-9333-3de0e0b1447b",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "44a75564-d41e-48a0-bd68-d7590e95fa68",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "44a75564-d41e-48a0-bd68-d7590e95fa68",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2t83itg",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#101820",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        14,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F59E0B",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jqh0fe",
+      "id": "3",
+      "bbox": [
+        72,
+        70,
+        820,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Лабораторная работа 4",
+      "textPreview": "Лабораторная работа 4",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#FBBF24",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Лабораторная работа 4"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Лабораторная работа 4",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#FBBF24",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Лабораторная работа 4",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#FBBF24",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5o7qpg3",
+      "id": "4",
+      "bbox": [
+        72,
+        150,
+        1040,
+        150
+      ],
+      "geometry": "rect",
+      "text": "Трек 4. Стохастический линейный поиск",
+      "textPreview": "Трек 4. Стохастический линейный поиск",
+      "resolvedFontSize": 54,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 54,
+        "typeface": "Aptos Display",
+        "color": "#F8FAFC",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Трек 4. Стохастический линейный"
+          },
+          {
+            "index": 2,
+            "text": "поиск"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Трек 4. Стохастический линейный поиск",
+          "resolvedTextStyle": {
+            "fontSize": 54,
+            "typeface": "Aptos Display",
+            "color": "#F8FAFC",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Трек 4. Стохастический линейный поиск",
+              "fontSize": 54,
+              "typeface": "Aptos Display",
+              "color": "#F8FAFC",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqh0fepk",
+      "id": "5",
+      "bbox": [
+        76,
+        330,
+        980,
+        68
+      ],
+      "geometry": "rect",
+      "text": "SLS подбирает шаг на текущем мини-батче по условию Армихо и снижает ручную настройку learning rate.",
+      "textPreview": "SLS подбирает шаг на текущем мини-батче по условию Армихо и снижает ручную настройку learning rate.",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 26,
+        "typeface": "Aptos",
+        "color": "#CBD5E1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SLS подбирает шаг на текущем мини-батче по условию Армихо и снижает"
+          },
+          {
+            "index": 2,
+            "text": "ручную настройку learning rate."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SLS подбирает шаг на текущем мини-батче по условию Армихо и снижает ручную настройку learning rate.",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Aptos",
+            "color": "#CBD5E1",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SLS подбирает шаг на текущем мини-батче по условию Армихо и снижает ручную настройку learning rate.",
+              "fontSize": 26,
+              "typeface": "Aptos",
+              "color": "#CBD5E1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "6",
+      "bbox": [
+        76,
+        530,
+        620,
+        80
+      ],
+      "geometry": "rect",
+      "text": "Пакет №1: Log-Cosh regression + Exponential classification\nЭксперимент: bodyfat, Log-Cosh, L2",
+      "textPreview": "Пакет №1: Log-Cosh regression + Exponential classification | Эксперимент: bodyfat, Log-Cosh, L2",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Aptos",
+        "color": "#E2E8F0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Пакет №1: Log-Cosh regression + Exponential classification"
+          },
+          {
+            "index": 2,
+            "text": "Эксперимент: bodyfat, Log-Cosh, L2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Пакет №1: Log-Cosh regression + Exponential classification",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Aptos",
+            "color": "#E2E8F0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Пакет №1: Log-Cosh regression + Exponential classification",
+              "fontSize": 22,
+              "typeface": "Aptos",
+              "color": "#E2E8F0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Эксперимент: bodyfat, Log-Cosh, L2",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Aptos",
+            "color": "#E2E8F0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Эксперимент: bodyfat, Log-Cosh, L2",
+              "fontSize": 22,
+              "typeface": "Aptos",
+              "color": "#E2E8F0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1w7mp0bi",
+      "id": "7",
+      "bbox": [
+        1030,
+        620,
+        170,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Track 4",
+      "textPreview": "Track 4",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#F8FAFC",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Track 4"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Track 4",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#F8FAFC",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Track 4",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#F8FAFC"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

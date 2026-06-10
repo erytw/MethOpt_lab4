@@ -1,0 +1,535 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/z0ns83",
+    "id": "z0ns83",
+    "slide": 2,
+    "layoutId": "e9f8aaf2-92a8-4240-9333-3de0e0b1447b",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "44a75564-d41e-48a0-bd68-d7590e95fa68",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e9f8aaf2-92a8-4240-9333-3de0e0b1447b",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "44a75564-d41e-48a0-bd68-d7590e95fa68",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "44a75564-d41e-48a0-bd68-d7590e95fa68",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lszqtcj",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F8FAFC",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8bat47y",
+      "id": "2",
+      "bbox": [
+        58,
+        42,
+        340,
+        28
+      ],
+      "geometry": "rect",
+      "text": "ПОСТАНОВКА",
+      "textPreview": "ПОСТАНОВКА",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "color": "#B45309",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ПОСТАНОВКА"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ПОСТАНОВКА",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Aptos",
+            "color": "#B45309",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ПОСТАНОВКА",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#B45309",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knih4byh",
+      "id": "3",
+      "bbox": [
+        58,
+        80,
+        980,
+        66
+      ],
+      "geometry": "rect",
+      "text": "Армихо проверяется не на всей функции, а на фиксированном мини-батче.",
+      "textPreview": "Армихо проверяется не на всей функции, а на фиксированном мини-батче.",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 36,
+        "typeface": "Aptos Display",
+        "color": "#111827",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Армихо проверяется не на всей функции, а на"
+          },
+          {
+            "index": 2,
+            "text": "фиксированном мини-батче."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Армихо проверяется не на всей функции, а на фиксированном мини-батче.",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "Aptos Display",
+            "color": "#111827",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Армихо проверяется не на всей функции, а на фиксированном мини-батче.",
+              "fontSize": 36,
+              "typeface": "Aptos Display",
+              "color": "#111827",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9knih4",
+      "id": "4",
+      "bbox": [
+        88,
+        190,
+        1120,
+        76
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFF7ED",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/vmtwra5g",
+      "id": "5",
+      "bbox": [
+        170,
+        200,
+        940,
+        58
+      ],
+      "alt": "Условие Армихо на фиксированном мини-батче",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "9266d2dd-e099-4c78-8b45-1b14e5249bbd",
+        "contentType": "image/png",
+        "byteLength": 27075
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "6",
+      "bbox": [
+        90,
+        320,
+        500,
+        210
+      ],
+      "geometry": "rect",
+      "text": "Зачем это нужно\n\n- шаг адаптируется к локальной геометрии батча\n- не требуется вычислять F(x) на всей выборке\n- можно сравнить с лучшим ручным расписанием шага",
+      "textPreview": "Зачем это нужно |  | - шаг адаптируется к локальной геометрии батча | - не требуется вычислять F(x) на всей выборке | - можно сравнить с ...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#1F2937",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Зачем это нужно"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "- шаг адаптируется к локальной геометрии"
+          },
+          {
+            "index": 4,
+            "text": "батча"
+          },
+          {
+            "index": 5,
+            "text": "- не требуется вычислять F(x) на всей"
+          },
+          {
+            "index": 6,
+            "text": "выборке"
+          },
+          {
+            "index": 7,
+            "text": "- можно сравнить с лучшим ручным"
+          },
+          {
+            "index": 8,
+            "text": "расписанием шага"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Зачем это нужно",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#1F2937",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Зачем это нужно",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#1F2937"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "- шаг адаптируется к локальной геометрии батча",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#1F2937",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- шаг адаптируется к локальной геометрии батча",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#1F2937"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "- не требуется вычислять F(x) на всей выборке",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#1F2937",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- не требуется вычислять F(x) на всей выборке",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#1F2937"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "- можно сравнить с лучшим ручным расписанием шага",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#1F2937",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "- можно сравнить с лучшим ручным расписанием шага",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#1F2937"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "7",
+      "bbox": [
+        690,
+        320,
+        450,
+        210
+      ],
+      "geometry": "rect",
+      "text": "Ограничение\n\nЕсли батч слишком мал, оценка f_I шумная. Тогда условие Армихо может принять слишком большой или слишком маленький шаг.",
+      "textPreview": "Ограничение |  | Если батч слишком мал, оценка f_I шумная. Тогда условие Армихо может принять слишком большой или слишком маленький шаг.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "#1F2937",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Ограничение"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "Если батч слишком мал, оценка f_I"
+          },
+          {
+            "index": 4,
+            "text": "шумная. Тогда условие Армихо может"
+          },
+          {
+            "index": 5,
+            "text": "принять слишком большой или"
+          },
+          {
+            "index": 6,
+            "text": "слишком маленький шаг."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Ограничение",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#1F2937",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Ограничение",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#1F2937"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Если батч слишком мал, оценка f_I шумная. Тогда условие Армихо может принять слишком большой или слишком маленький шаг.",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos",
+            "color": "#1F2937",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Если батч слишком мал, оценка f_I шумная. Тогда условие Армихо может принять слишком большой или слишком маленький шаг.",
+              "fontSize": 24,
+              "typeface": "Aptos",
+              "color": "#1F2937"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vixczed8",
+      "id": "8",
+      "bbox": [
+        58,
+        650,
+        1160,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#E5E7EB",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
